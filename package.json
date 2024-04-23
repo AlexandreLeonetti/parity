@@ -1,0 +1,24 @@
+{
+  "name": "@leonetti/parity",
+  "version": "0.0.1",
+  "description": "binary parity",
+  "repository": "alexandreleonetti/parity",
+  "type": "module",
+	"exports": "./dist/index.js",
+	"types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  	"files": [
+		"dist"
+	],
+	"keywords": [
+		"type",
+		"types"
+  ],
+  "author":{
+		"name": "Alex Leonetti",
+		"url": "https://github.com/AlexandreLeonetti"
+	},
+  "license": "ISC"
+}
