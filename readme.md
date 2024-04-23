@@ -1,6 +1,6 @@
-# parse-ms
+# binary parity 
 
-> Parse milliseconds into an object
+> Calculate binary parity of integers and bigIntegers. 
 
 ## Install
 

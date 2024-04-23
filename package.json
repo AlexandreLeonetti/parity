@@ -1,6 +1,6 @@
 {
   "name": "@leonetti/parity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "binary parity",
   "repository": "alexandreleonetti/parity",
   "type": "module",
